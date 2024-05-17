@@ -1,4 +1,4 @@
-var a_href = 'https://ivimedia.world/br/registration/pop?bonusType=casino';
+var a_href = 'https://mediastp.com/tgbottiger';
 var idRefer = $_GET('refer');
 
 if (window.location.search !== '') {
